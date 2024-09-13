@@ -47,7 +47,16 @@
 This repository contains the code for a web-based diabetes prediction application using a machine learning model. The application is built using Flask and allows users to input various health parameters to predict the likelihood of diabetes.<br>
 
 
-<img src="demo.gif" height=30% width=50% align="right">
+
+
+
+
+
+
+
+
+
+<img src="demo.gif" height=50% width=70% align="left"><br>
 
 
 
