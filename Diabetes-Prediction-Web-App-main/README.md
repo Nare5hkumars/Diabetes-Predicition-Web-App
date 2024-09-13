@@ -52,8 +52,8 @@ The web app utilizes a machine learning model, specifically an ensemble model co
 
 ## Dataset
 
-<h3>Dataset Prview</h3><a id="3"></a>
-A preview of Piama Indians Dataset is as below:
+<h3>Dataset Preview</h3><a id="3"></a>
+A preview of Indians Dataset is as below:
 
 | | Pregnancies | Glucose | BloodPressure | SkinThickness | Insulin |  BMI | DiabetesPedigreeFunction | Age | Outcome |
 |-| ----------- | ------- | ------------- | ------------- | ------- | ---- | ------------------------ | --- | ------- |
