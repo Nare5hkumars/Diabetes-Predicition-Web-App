@@ -45,9 +45,37 @@
 This repository contains the code for a web-based diabetes prediction application using a machine learning model. The application is built using Flask and allows users to input various health parameters to predict the likelihood of diabetes.<br>
 
 
+
 ## Overview
 
 The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
+
+## Requirements
+
+Python: Ensure you have Python 3.6 or later installed. Python is the programming language used to write the application.
+
+Flask: A lightweight web framework for building the web application.
+
+Machine Learning Libraries: Tools for training and using machine learning models.
+
+Web Browser: For accessing and testing the web application.
+
+2. Python Libraries
+Create a requirements.txt file to list the necessary Python libraries and their versions. This file helps in managing dependencies and setting up the environment easily. Below is a sample requirements.txt for a Diabetes Prediction Flask WebApp:
+
+plaintext
+Copy code
+Flask==2.5.2
+scikit-learn==1.2.2
+pandas==2.0.3
+numpy==1.25.0
+joblib==1.2.0
+Explanation of Each Library:
+Flask: A micro web framework for Python. It helps in creating web applications and handling HTTP requests.
+scikit-learn: A library for machine learning that includes tools for classification, regression, clustering, and more.
+pandas: A data manipulation library that provides data structures and operations for manipulating numerical tables and time series.
+numpy: A fundamental package for numerical computations in Python, essential for handling arrays and mathematical operations.
+joblib: A library used to serialize and deserialize Python objects, including machine learning models.
 
 
 ## Dataset
