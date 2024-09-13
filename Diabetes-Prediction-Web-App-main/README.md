@@ -48,7 +48,7 @@ This repository contains the code for a web-based diabetes prediction applicatio
 ## Overview
 
 
-<img src="Diabetes-Prediction-Web-App-main/demo.gif">
+<img src="Diabetes-Prediction-Web-App-main/demo.gif" height=15% width=40% align="right">
 
 The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
 
