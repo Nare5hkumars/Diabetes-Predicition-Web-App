@@ -124,19 +124,3 @@ A preview of Indians Dataset is as below:
 The machine learning model used in this app is an ensemble of RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM). The ensemble approach combines the strengths of these classifiers to improve prediction accuracy.
 
 
-<img src="demo.gif" height=50% width=70% align="left"><br>
-
-
-## Acknowledgments
-We would like to extend our sincere gratitude to the following individuals, organizations, and resources for their invaluable contributions to the development of the Diabetes Prediction Flask WebApp:
-
-Open Source Libraries and Frameworks:
-
-Flask: Special thanks to the Flask community for developing and maintaining this powerful web framework that has made it possible to build and deploy our web application with ease. Flask Documentation
-Scikit-learn: We are grateful to the scikit-learn team for their comprehensive machine learning library, which provided the tools necessary for building and evaluating our prediction model. Scikit-learn Documentation
-Pandas: Our thanks go to the pandas team for creating an essential library for data manipulation and analysis, crucial for processing the dataset. Pandas Documentation
-NumPy: We appreciate the NumPy community for providing a foundational library for numerical operations, which is integral to handling and transforming data. NumPy Documentation
-Joblib: Thanks to the joblib developers for their efficient serialization library, which allowed us to save and load our machine learning model with ease.
-
-
-
