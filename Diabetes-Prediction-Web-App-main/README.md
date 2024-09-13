@@ -47,33 +47,6 @@
 This repository contains the code for a web-based diabetes prediction application using a machine learning model. The application is built using Flask and allows users to input various health parameters to predict the likelihood of diabetes.<br>
 
 
-
-
-
-
-
-
-
-
-
-<img src="demo.gif" height=50% width=70% align="left"><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Overview
 
 The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
@@ -88,3 +61,6 @@ The web app utilizes a machine learning model, specifically an ensemble model co
 ## Model
 
 The machine learning model used in this app is an ensemble of RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM). The ensemble approach combines the strengths of these classifiers to improve prediction accuracy.
+
+
+<img src="demo.gif" height=50% width=70% align="left"><br>
