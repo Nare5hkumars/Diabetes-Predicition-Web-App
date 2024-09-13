@@ -42,19 +42,45 @@
 
  
 # Diabetes Predicition Flask WebApp
-
-
-
-
-
-
-
 This repository contains the code for a web-based diabetes prediction application using a machine learning model. The application is built using Flask and allows users to input various health parameters to predict the likelihood of diabetes.<br>
 
 
 ## Overview
 
 The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
+
+
+## DataSet
+
+<h3>Dataset Prview</h3><a id="3"></a>
+A preview of Piama Indians Dataset is as below:
+
+| | Pregnancies | Glucose | BloodPressure | SkinThickness | Insulin |  BMI | DiabetesPedigreeFunction | Age | Outcome |
+|-| ----------- | ------- | ------------- | ------------- | ------- | ---- | ------------------------ | --- | ------- |
+|0|	          6	|     148 |            72 |            35 |       0 | 33.6 |                    0.627 |  50 |       1 |
+|1|	          1	|      85 |            66 |            29 |       0 | 26.6 |                    0.351 |  31 |       0 |
+|2|	          8	|     183 |            64 |             0 |       0 | 23.3 |                    0.672 |  32 |       1 |
+|3|           1 |      89 |            66 |            23 |      94 | 28.1 |                    0.167 |  21 |       0 |
+|4|	          0 |	  137 |            40 |            35 |     168 | 43.1 |                    2.288 |  33 |       1 |
+|5|	          5 |	  116 |            74 |             0 |       0 | 25.6 |                    0.201 |  30 |       0 |
+|6|	          3 |	   78 |            50 |            32 |      88 | 31.0 |                    0.248 |  26 |       1 |
+|7|          10 |     115 |             0 |             0 |       0 | 35.3 |                    0.134 |  29 |       0 |
+|8|           2 |     197 |            70 |            45 |     543 | 30.5 |                    0.158 |  53 |       1 |
+|9|	          8 |     125 |            96 |             0 |       0 |  0.0 |                    0.232 |  54 |       1 |
+
+
+
+<h3>Description of variables in the dataset</h3><a id="4"></a>
+
+```Pregnancies:``` Number of times pregnant
+
+```Glucose:``` Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+
+```BloodPressure:``` Diastolic blood pressure (mm Hg)
+
+```SkinThickness:``` Triceps skin fold thickness (mm)
+
+```Insulin:``` 2-Hour serum insulin (mu U/ml)
 
 ## Features
 
