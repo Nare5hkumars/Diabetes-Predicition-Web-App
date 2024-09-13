@@ -50,7 +50,7 @@ This repository contains the code for a web-based diabetes prediction applicatio
 The web app utilizes a machine learning model, specifically an ensemble model combining RandomForestClassifier, LogisticRegression, and Support Vector Machine (SVM), to provide predictions. The model was trained on the diabetes dataset from kaggle.
 
 
-## DataSet
+## Dataset
 
 <h3>Dataset Prview</h3><a id="3"></a>
 A preview of Piama Indians Dataset is as below:
