@@ -1,4 +1,4 @@
-# Welcome to [Hirthick's](https://github.com/Nare5hkumars/) profile! <a href="https://github.com/Nare5hkumars/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [NareshKumar's](https://github.com/Nare5hkumars/) profile! <a href="https://github.com/Nare5hkumars/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
  
 
