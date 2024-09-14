@@ -2,7 +2,7 @@
 
  
 
-### I'm a...   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
+### I'm a...   <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height=15% width=40% align="right">
 
  
 
@@ -63,23 +63,6 @@ _(click the button!)_
 # Diabetes Predicition Flask WebApp:
 
 This repository contains the code for a web-based diabetes prediction application using a machine learning model. The application is built using Flask and allows users to input various health parameters to predict the likelihood of diabetes.<br>
-
-
-
-
-
-
-
-
-<img src="Diabetes-Prediction-Web-App-main/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f67726f6865616c74682f696d6167652f75706c6f61642f635f66696c6c2c665f6175746f2c666c5f6c6f7373792c685f3635302c715f6175746f2c775f313038352f76313538313639353638312f444.webp"height=50% width=70% align="right"><br>
-
-
-
-
-
-
-
-
 
 
 
