@@ -15,6 +15,7 @@
 * Independent learner
 
 * Demanding Perfectionist
+  
 
  
 
@@ -24,7 +25,7 @@
 
 📝 [Resume](https://github.com/Nare5hkumars/RESUME/blob/main/Nare5hkumar.pdf)<br>
 
-💪 "The only limit to our realization of tomorrow is our doubts of today."<br><br>
+💪 "The only limit to our realization of tomorrow is our doubts of today".
 
 ⭐ Pronoun: He/Him
 
